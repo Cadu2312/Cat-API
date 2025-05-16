@@ -1,15 +1,15 @@
 Cat-API
 
-O aplicação criada utilizando flutter/dirt e emulação de celular android.
+Aplicação multiplataforma (Mobile e Desktop) e responsiva desenvolvida para consumir uma API de gatos e fornecer informações detalhadas sobre diversas raças de gatos.
 
-O aplicativo consiste na requisição de uma API com informações de cada raça de gato.
+O projeto envolveu a integração com a API, tratamento de dados recebidos e apresentação de informações de forma clara e acessível para os usuários.
 
-Para a utilização do app sera necessario um emulador de android.
+Utilizei Dart - Flutter para desenvolver a interface e garantir uma experiência de usuário intuitiva e eficiente.
 
 
-The application was created using Flutter/Dart and Android phone emulation.
+TCross-platform (Mobile and Desktop) and responsive application developed to consume a cat API and provide detailed information about various cat breeds.
 
-The app consists of making requests to an API that provides information about each cat breed.
+The project involved integrating with the API, processing the received data, and presenting the information in a clear and accessible way for users.
 
-To use the app, an Android emulator will be required.
+I used Dart and Flutter to develop the interface and ensure an intuitive and efficient user experience.
 
